@@ -53,23 +53,26 @@ Requirer is used in this project as a dependency management tool to manage the p
 [Visit Jest]( https://jestjs.io/)
 
 
-## Usage 
+# Usage 
 
-### 
+## Video guide
 
-# Images
+- [cruzkenneth504-Youtube]()  
 
-* - Circle
 
-![alt text]()
+## Images
 
-*  - Triangle
+### Circle
 
-![alt text]()
+![alt text](./imgs/circle.png)
 
-* - Square
+### Triangle
 
-![alt text]()
+![alt text](./imgs/triangle.png)
+
+### Square
+
+![alt text](./imgs/square.png)
 
 # Video guide
 
