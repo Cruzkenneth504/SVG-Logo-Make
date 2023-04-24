@@ -55,7 +55,7 @@ Requirer is used in this project as a dependency management tool to manage the p
 
 # Usage 
 
-## Video guide
+## Video guide for application usage
 
 - [cruzkenneth504-Youtube]()  
 
@@ -76,7 +76,7 @@ Requirer is used in this project as a dependency management tool to manage the p
 
 # Video guide
 
-- [cruzkenneth504-Youtube]()  
+- [cruzkenneth504-Youtube](https://youtu.be/Zfsjx2ZhUv0)  
 
 
 ## License
