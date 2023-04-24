@@ -3,5 +3,5 @@
 <!-- Square -->
 <svg width="300" height="200"><rect width="300" height="200" style="fill:SHAPECOLOR;stroke-width:2;stroke:#FFFFFF"/><text x="50%" y="50%" dominant-baseline="middle" font-size="100px" text-anchor="middle" fill="TEXTCOLOR">TEXT</text></svg> 
 <!-- Circle -->
-<svg width="300px" height="200px"><circle cx="150" cy="100" r="80" fill="SHAPECOLOR" stroke="black" stroke-width="3" /><text x="150" y="100" font-size="50" text-anchor="middle" fill="TEXTCOLOR" alignment-baseline="central">TEXT</text></svg>
+<svg width="300px" height="200px"><circle cx="150" cy="100" r="80" fill="SHAPECOLOR" stroke="#d33636" stroke-width="3" /><text x="150" y="100" font-size="50" text-anchor="middle" fill="TEXTCOLOR" alignment-baseline="central">TEXT</text></svg>
 
