@@ -57,7 +57,7 @@ Requirer is used in this project as a dependency management tool to manage the p
 
 ## Video guide for application usage
 
-- [cruzkenneth504-Youtube]()  
+ 
 
 
 ## Images
@@ -76,7 +76,8 @@ Requirer is used in this project as a dependency management tool to manage the p
 
 # Video guide
 
-- [cruzkenneth504-Youtube](https://youtu.be/Zfsjx2ZhUv0)  
+- [cruzkenneth504-Youtube](https://youtu.be/Zfsjx2ZhUv0) 
+
 
 
 ## License
@@ -110,4 +111,8 @@ Requirer is used in this project as a dependency management tool to manage the p
 * [Bootcamp Inatructors](https://bootcamp.berkeley.edu/)
 * [Tutors]( https://tinyurl.com/BootCampTutorTeam)
  
+
+## Test video
+
+- [cruzkenneth504-Youtube-Jest](https://youtube.com/shorts/Q3yDAp-hy-Y) 
 
